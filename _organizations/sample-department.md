@@ -1,5 +1,5 @@
 ---
-title: Sample Department
-description: This is an example department provided with a new installation of JKAN
-logo: https://i.imgur.com/mrC5xVT.png
+title: Coronation Water
+description: A fake water company for proving that we can do this
+logo: /img/coronation_water.png
 ---
